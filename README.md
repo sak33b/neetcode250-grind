@@ -14,7 +14,7 @@ The NeetCode 250 is a curated list covering a wide range of fundamental LeetCode
 
 ### My Approach
 
-I'll be primarily using **Java** for my solutions. For each problem, my focus will be on understanding the core concept, finding efficient solutions, and writing clear code.
+I'll be primarily using **Java** (Sometimes **Python**) for my solutions. For each problem, my focus will be on understanding the core concept, finding efficient solutions, and writing clear code.
 
 ---
 
